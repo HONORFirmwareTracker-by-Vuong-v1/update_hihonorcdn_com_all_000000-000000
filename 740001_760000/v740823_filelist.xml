@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>245979790</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>l18w7Vv+2l7oebZWByr1ldU8ESVqep3GD1yiFQb19gw=</fileHash>
+<fileSize>182290279</fileSize>
+<metadataHash>q8lZ9LvsY3re9mpXgBrpcema9fm9ev5LFFHhu08Fh74=</metadataHash>
+<metadataSize>52598</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BVL-N59_porsche_normal_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BVL-N59_porsche_normal_R2.zip</spath>
+<dpath>update_preload_BVL-N59_porsche_normal_R2.zip</dpath>
+<operation>c</operation>
+<sha256>E39AE724F17EA1EC68E820FAE5C79AE4D12115ABA22A7A45C708C27A6EABAE30</sha256>
+<size>182297630</size>
+</file>
+</files>
+</root>

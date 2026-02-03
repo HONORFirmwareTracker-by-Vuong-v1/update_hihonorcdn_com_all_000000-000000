@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>12499472384</cowsize>
+<payloadOffset>933</payloadOffset>
+<fileHash>cRA8GgBFJRY00uTvNwHtzSFbfbHwCmuviqf7lyqEAvs=</fileHash>
+<fileSize>79883891</fileSize>
+<metadataHash>bgrMUbc4rz7k5c4O2otgFTCrF3mdStcifhHWNwJHOTs=</metadataHash>
+<metadataSize>256335</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_BKQ-AN10_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_BKQ-AN10_demo_cn.zip</spath>
+<dpath>update_cust_BKQ-AN10_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>B0E2C2B7D6087E9253D452F2582084391BD9D2EE509A7B5057EA1C5CE09B1C45</sha256>
+<size>79891226</size>
+</file>
+</files>
+</root>

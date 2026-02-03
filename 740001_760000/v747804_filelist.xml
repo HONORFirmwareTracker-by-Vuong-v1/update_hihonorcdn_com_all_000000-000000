@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>BL//9rinvFpQAmVZv9D6SU8nya1eF8ah0Ap8s29Evug=</fileHash>
+<fileSize>5534903</fileSize>
+<metadataHash>pBA1Lf5YrSTlWHjWfvOQd8HGKzApuSbJ8qj0+HA9eBo=</metadataHash>
+<metadataSize>5045</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PGT-N49_opr_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PGT-N49_opr_eea_R2.zip</spath>
+<dpath>update_preload_PGT-N49_opr_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>1EF86ED96A8B0C309B44B227E634D4D1DE6BCA2D448A6082C26B92A86D7862A4</sha256>
+<size>5542229</size>
+</file>
+</files>
+</root>

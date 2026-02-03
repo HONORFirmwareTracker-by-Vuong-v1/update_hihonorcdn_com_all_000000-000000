@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43941888</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>4CQNG5rEGKVH+hcskbozQ8NfmOTYCl23HuEfO0ZcBbA=</fileHash>
+<fileSize>4062</fileSize>
+<metadataHash>d8vjzjzEGGshOFF7bbz5J8vZpyf9wLaAkzcpTXuxsIs=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_NIC-AN00M_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_NIC-AN00M_all_cn.zip</spath>
+<dpath>update_cust_NIC-AN00M_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>416A2FF873E9AF38DDA569074C521F76D46B0844500759EBFEC88B8D9C294247</sha256>
+<size>11351</size>
+</file>
+</files>
+</root>

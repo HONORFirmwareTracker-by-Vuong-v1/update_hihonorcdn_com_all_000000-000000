@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imagesegment</pluginName>
+	<versionCode>100665025</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>42fd1c3faaf043adc18cc90857c90a2cea8be702f310b18fd892463e95aa7c73</sha256>
+			<size>218054</size>
+		</file>
+	</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>517439488</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>RQR+tFa22OjZJU4HC4jQO37Q0AKvPu43jDdfz0RPkcw=</fileHash>
+<fileSize>68689846</fileSize>
+<metadataHash>ViNjFCOlHIGtaCqDUObsUxJVzwDtZYy6/xM0nqys/lM=</metadataHash>
+<metadataSize>61335</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BKQ-AN80_all_cn_R203.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BKQ-AN80_all_cn_R203.zip</spath>
+<dpath>update_preload_BKQ-AN80_all_cn_R203.zip</dpath>
+<operation>c</operation>
+<sha256>4DB25649C9D38C48D9AF50E93AC6263149CB671A01BB39674FE3F30C9292626A</sha256>
+<size>68697181</size>
+</file>
+</files>
+</root>

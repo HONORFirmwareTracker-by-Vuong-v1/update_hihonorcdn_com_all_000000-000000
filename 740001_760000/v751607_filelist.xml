@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imagecomposition</pluginName>
+	<versionCode>100100015</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>4a83f5eb020bd831df3bfc0bb162b426a68cc64edd574d5376e75067fe9f2253</sha256>
+			<size>229671</size>
+		</file>
+	</files>
+</root>

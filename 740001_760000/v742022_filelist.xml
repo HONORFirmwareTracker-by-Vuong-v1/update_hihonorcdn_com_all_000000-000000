@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>667215202</compressCowSize>
+<cowsize>2010570752</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>smVry8wDk0LOskqh+1PVicYB5ij3IVTDGcIA41rz6mU=</fileHash>
+<fileSize>476693742</fileSize>
+<metadataHash>7fceDxjQA7f48HX4ed6QDeqUtg2KBEfmmakGY63fvHg=</metadataHash>
+<metadataSize>114013</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PTP-N19_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PTP-N19_claro_la.zip</spath>
+<dpath>update_cust_PTP-N19_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>6B3304B5E91E9950847555678E5BB54C68305BA2CD2116D4798837D093AE3C5C</sha256>
+<size>476701078</size>
+</file>
+</files>
+</root>

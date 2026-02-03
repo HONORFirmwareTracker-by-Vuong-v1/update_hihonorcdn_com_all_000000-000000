@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>15042692</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>BZE6pdrHuOJTNMSoMobZyj+JZl6lSsQiWjy/8EkR9Ks=</fileHash>
+<fileSize>8035</fileSize>
+<metadataHash>IYuCWbu+bJeftRzaYMi0cNfjo71Fgcvoo5cDHa5+bsI=</metadataHash>
+<metadataSize>4544</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PTP-N19_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PTP-N19_claro_la_R1.zip</spath>
+<dpath>update_preload_PTP-N19_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>126A3CD9CC1348CA79861EEF8A5995AAD465B901C4E2C186A92A6A102ACDE2BC</sha256>
+<size>15336</size>
+</file>
+</files>
+</root>

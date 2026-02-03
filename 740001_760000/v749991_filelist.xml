@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>vlm</pluginName>
+	<versionCode>100106022</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>e006fc1ba3b8b82a16d69389da3242bcad5bbf5789ea753f04073603d5144554</sha256>
+			<size>11282754</size>
+		</file>
+	</files>
+</root>

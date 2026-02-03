@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616820736</cowsize>
+<payloadOffset>924</payloadOffset>
+<fileHash>9ckBIzSwhOcckSdwHcEWLyZltw3DQqc/fBAFU2RZVP0=</fileHash>
+<fileSize>3031478</fileSize>
+<metadataHash>OsIRNPqmiybyLm+OCQvXu/lFL5HUkFte1ZWcfFsjX+s=</metadataHash>
+<metadataSize>11985</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_MAA-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_MAA-TN00_cmcc_cn.zip</spath>
+<dpath>update_cust_MAA-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>6C3BABC8AA133BDF199FE59C3D6C58B7A34051190EE74771CB21ECC098FB8BE3</sha256>
+<size>3038798</size>
+</file>
+</files>
+</root>

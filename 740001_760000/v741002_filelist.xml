@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43945984</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>g67xil717rTF2yjb7mduxVbfY+A+TyAiWj8h/f9n7R4=</fileHash>
+<fileSize>4780</fileSize>
+<metadataHash>yu1PkM4J1NQV9hSkXWtMCvgr+R281VW8MOJ/3ZQ4um0=</metadataHash>
+<metadataSize>989</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LRA-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LRA-AN00_all_cn.zip</spath>
+<dpath>update_cust_LRA-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>C02903D960877AEB7EBA2606673746730C8D0399AB8F601D0BA79C3E2337AEB9</sha256>
+<size>12064</size>
+</file>
+</files>
+</root>
