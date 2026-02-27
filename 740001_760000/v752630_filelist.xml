@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>QEsEdvs6IPncKyl6zyHp5A76JZsQ6VljHkGWQzMlkHk=</fileHash>
+<fileSize>4091</fileSize>
+<metadataHash>uBo7guFyHoGsxRwopanLzTC8/hShNi2rg20Xs6tEP00=</metadataHash>
+<metadataSize>783</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FRI-N39_def_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FRI-N39_def_eea.zip</spath>
+<dpath>update_cust_FRI-N39_def_eea.zip</dpath>
+<operation>c</operation>
+<sha256>1BB6D25B89470C7D069B2292B1DEC231DF623E290E44FA2D2778609CDF7F8F4B</sha256>
+<size>11381</size>
+</file>
+</files>
+</root>

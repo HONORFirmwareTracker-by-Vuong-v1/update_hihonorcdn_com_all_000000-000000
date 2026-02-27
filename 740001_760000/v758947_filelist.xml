@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>163768072</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>w8V3Tpiy3ogw3Ws+/4S2HKh4py4l4izBV4eZkjzHnuw=</fileHash>
+<fileSize>115589386</fileSize>
+<metadataHash>460C9K81Q7P7qDjsPKH2/HS9/2smWXCB7ZsF95wv+iU=</metadataHash>
+<metadataSize>48049</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ELP-N39_def_la_R200.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ELP-N39_def_la_R200.zip</spath>
+<dpath>update_preload_ELP-N39_def_la_R200.zip</dpath>
+<operation>c</operation>
+<sha256>19EC66BC6C1E48383892750FDD948409BDBAB46B5241EB89FE9508F965346637</sha256>
+<size>115596741</size>
+</file>
+</files>
+</root>

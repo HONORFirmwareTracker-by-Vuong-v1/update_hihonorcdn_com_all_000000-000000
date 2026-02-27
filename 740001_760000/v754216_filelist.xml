@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2056876032</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>2/YG9lS5DlMy4t58Enb+VatgfL0V98PDlauNelrWjcY=</fileHash>
+<fileSize>16574</fileSize>
+<metadataHash>QydpA/AiqEcIVDeJYC9XGFSbI9SCkshAI8xVPBtkC1w=</metadataHash>
+<metadataSize>13201</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LGN-N31S_def_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LGN-N31S_def_eea.zip</spath>
+<dpath>update_cust_LGN-N31S_def_eea.zip</dpath>
+<operation>c</operation>
+<sha256>1227AD0E9F00BE2204A3D22A0FD390E52630C74C80B11F4E82B1E4AC4C2B286C</sha256>
+<size>23876</size>
+</file>
+</files>
+</root>

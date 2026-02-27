@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>359809024</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>xLt49ttMpWHfdH+VsxM2WqNMyP2RKadhDz7oSO8PxUU=</fileHash>
+<fileSize>19351</fileSize>
+<metadataHash>EdySpXY7Jk/HFVZ7i1K+54P71urn1eqn8cFfqFVIrBo=</metadataHash>
+<metadataSize>11394</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_BRP-N21_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_BRP-N21_opr_meafnaf.zip</spath>
+<dpath>update_cust_BRP-N21_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>4DE02DC3C861463773FC10CB9138E2D0A5D608A1251A440C32997C0B525CB0EF</sha256>
+<size>26646</size>
+</file>
+</files>
+</root>

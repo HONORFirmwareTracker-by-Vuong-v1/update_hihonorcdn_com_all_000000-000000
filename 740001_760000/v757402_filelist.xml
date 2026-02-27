@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1798868992</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>wp+v2vZIi8dm89g5EPTsHiUbWAcrL6/58VIU8QrudGg=</fileHash>
+<fileSize>247567435</fileSize>
+<metadataHash>oQX8yTeoyshTH/nuaqYp69/SZflQWImYzGx5jkTyUMY=</metadataHash>
+<metadataSize>31866</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_MTN-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_MTN-N03_claro_la.zip</spath>
+<dpath>update_cust_MTN-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>115399B3A4AF9B37242C2022721C7F49FC0E9F38041E0F1F4132AA7823DBCE2E</sha256>
+<size>247574772</size>
+</file>
+</files>
+</root>

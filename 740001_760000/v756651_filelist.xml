@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1362493440</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>K1R7/HkZui3Ew4/s6/EYIb6V28gzV1e6F38d0iuTO8s=</fileHash>
+<fileSize>48110</fileSize>
+<metadataHash>reD9oCKFy4yj2najgIJFhOp0OW3HIgS+szqF1YWFwZU=</metadataHash>
+<metadataSize>35985</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BKQ-N49_def_spcseas_R105.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BKQ-N49_def_spcseas_R105.zip</spath>
+<dpath>update_preload_BKQ-N49_def_spcseas_R105.zip</dpath>
+<operation>c</operation>
+<sha256>FFBCFD1EAA3F0AEC4EDCA772442E732272C7986450C150F767D78D906575C25C</sha256>
+<size>55423</size>
+</file>
+</files>
+</root>

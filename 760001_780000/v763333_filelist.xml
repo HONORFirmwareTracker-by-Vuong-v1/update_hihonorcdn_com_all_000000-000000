@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>PArj1Rb/s2Oo3FIof2ZQla8nYqJdyyTvGzRtWb/Eu7c=</fileHash>
+<fileSize>59578</fileSize>
+<metadataHash>UnDXEL6f6ZFSBHgij3zQFlUsQ9mMnV0UR/UDZMJYlno=</metadataHash>
+<metadataSize>1366</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DVD-AN80_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DVD-AN80_all_cn.zip</spath>
+<dpath>update_cust_DVD-AN80_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>1035AE4C5B99A01DD437ABEABB8FC0B966DEA790E1BCC4211A2EF500E1F372D3</sha256>
+<size>66876</size>
+</file>
+</files>
+</root>

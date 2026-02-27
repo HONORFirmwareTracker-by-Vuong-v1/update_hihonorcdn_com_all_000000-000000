@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>427908532</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>tAsadswOKieg0Pc/DxtVM8Sd3/vKvSp3XubXTc+FX6s=</fileHash>
+<fileSize>326388851</fileSize>
+<metadataHash>nSrHRdeHY06edBJPc7ZxOT3U1g89PBcDBWb4g723Lz0=</metadataHash>
+<metadataSize>152353</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ELP-N39_def_eea_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ELP-N39_def_eea_R3.zip</spath>
+<dpath>update_preload_ELP-N39_def_eea_R3.zip</dpath>
+<operation>c</operation>
+<sha256>BC5A0C6DAD65601F4CDF08DC9B0B3BF531C3CFD4EA70E5F79E959824976629C3</sha256>
+<size>326396199</size>
+</file>
+</files>
+</root>

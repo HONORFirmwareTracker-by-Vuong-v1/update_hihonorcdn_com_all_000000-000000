@@ -1,0 +1,60 @@
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" >
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features  module="极客中心">
+             <feature>•  新增极客中心，在游戏等特定场景下，您可以自由选择预设模式，随心调校性能参数，打造您的专属游戏性能调节站。体验路径：设置 > 关于平板电脑 > 性能引擎平台 > 极客中心</feature>
+        </features>
+        <features  module="游戏">
+             <feature>•  新增支持《暗区突围》和《英雄联盟》165Hz高刷新率，带来更流畅的游戏体验</feature>
+             <feature>•  优化游戏触控体验</feature>
+             <feature>•  优化部分游戏的性能体验</feature>
+        </features>
+        <features  module="通知中心">
+             <feature>•  新增通知中心消息支持置顶。体验路径：通知中心 > 选中想要置顶的通知信息左滑 > 点击设置 > 设置为置顶通知</feature>
+        </features>
+        <features  module="触控键盘">
+             <feature>•  新增触摸板左侧上下滑动调节屏幕亮度（请通过设置 > 系统和更新 > 软件更新 > 配件版本更新，同步升级键盘版本）</feature>
+        </features>
+        <features  module="安全补丁">
+             <feature>•  合入安卓2026年2月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2026/2</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1.本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2.更多精彩功能介绍，请访问“玩机技巧”应用
+3.如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>
+    <language code="1033" name="en-us">
+                <features module="" type="header" >
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features  module="极客中心">
+             <feature>•  新增极客中心，在游戏等特定场景下，您可以自由选择预设模式，随心调校性能参数，打造您的专属游戏性能调节站。体验路径：设置 > 关于平板电脑 > 性能引擎平台 > 极客中心</feature>
+        </features>
+        <features  module="游戏">
+             <feature>•  新增支持《暗区突围》和《英雄联盟》165Hz高刷新率，带来更流畅的游戏体验</feature>
+             <feature>•  优化游戏触控体验</feature>
+             <feature>•  优化部分游戏的性能体验</feature>
+        </features>
+        <features  module="通知中心">
+             <feature>•  新增通知中心消息支持置顶。体验路径：通知中心 > 选中想要置顶的通知信息左滑 > 点击设置 > 设置为置顶通知</feature>
+        </features>
+        <features  module="触控键盘">
+             <feature>•  新增触摸板左侧上下滑动调节屏幕亮度（请通过设置 > 系统和更新 > 软件更新 > 配件版本更新，同步升级键盘版本）</feature>
+        </features>
+        <features  module="安全补丁">
+             <feature>•  合入安卓2026年2月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2026/2</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1.本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2.更多精彩功能介绍，请访问“玩机技巧”应用
+3.如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>	
+            <imgs>
+            </imgs>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>41365504</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>cQmFu1T2dZU7rFE+sjfQRhkTZ3MsJVNBCfa3nt6kk9M=</fileHash>
+<fileSize>4710</fileSize>
+<metadataHash>epvmfmq+uBODpftMyGBac+oC9ZGtFkrZqEHdBMtiPNE=</metadataHash>
+<metadataSize>1021</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_NLA-N31N_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_NLA-N31N_def_spcseas.zip</spath>
+<dpath>update_cust_NLA-N31N_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>481E1FCD2036B7CAE6B97E1187AC3F9ADB5B2469E991F7D93A0AA5C1BC722FDA</sha256>
+<size>11998</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header">
+            <feature>本次更新主要针对系统进行了优化，推荐您进行更新。</feature>
+        </features>
+        <features module="相机">
+             <feature>• 相机算法库升级，优化相机拍照参数，提升更优质的拍照体验</feature>
+        <feature>•  优化相机拍摄效果，包括优化长焦拍摄下的对焦准确性，提升部分场景下的拍照速度、成像质量以及拍摄清晰度</feature></features>
+         
+    <features module="图库">
+             <feature img="1">•  新增 AI 人像光影编辑功能，支持多种自定义智能打光与背景虚化，让您的照片轻松呈现高级的光影效果。体验路径：图库 &gt; 打开图片 &gt; AI 编辑 &gt; AI 人像 &gt; 光影</feature>
+             <feature img="2">•  新增炫光去除功能，可有效消除照片或视频中因强光反射造成的炫光，提升画面纯净度。体验路径：图库 &gt; 打开图片 &gt; AI 编辑 &gt; AI 消除 &gt; 炫光去除</feature>
+        </features><features module="晕动舒缓">
+             <feature img="3">•  新增个性化动效图标，提升缓解效果，为您带来舒适的旅途用机体验。体验路径：设置 &gt; 辅助功能 &gt; 晕动舒缓显示 &gt; 显示内容 &gt; 图形</feature>
+        </features><features module="锁屏">
+             <feature img="4">•  新增视频壁纸，支持最长 10 秒动态效果。体验路径：设置 &gt; 桌面和个性化 &gt; 锁屏自定义 &gt; 锁屏样式 &gt; 选择照片 &gt; 视频</feature>
+        </features><features module="游戏">
+             <feature>•  提升部分游戏场景下流畅稳定的操作体验</feature>
+        </features><features module="系统">
+             <feature>•  优化部分场景使用卡顿问题，提升整机流畅性</feature>
+        </features><features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+         </features></language>
+            <imgs>
+            </imgs>
+<language code="1033" name="en-us">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Gallery">
+             <feature img="1">• AI Portrait enables lighting editing feature, allowing you to customize lighting and background blur, making it easy to achieve sophisticated lighting and shadow effects in your photos. Try it out by going to: Gallery &gt; Select an image &gt; AI Edit &gt; AI Portrait &gt; Lighting</feature>
+             <feature img="2">• Remove glare feature can effectively eliminate glare caused by strong light reflections in photos or videos, improving the overall image clarity. Try it out by going to: Gallery &gt; Select an image &gt; AI Edit &gt; AI Eraser &gt; Remove glare</feature>
+        </features>
+        <features module="Motion Sickness Relief">
+             <feature img="3">• Icons with dynamic effects can enhance the motion sickness relief effect, allowing you to use your device more comfortably while traveling. Try it out by going to: Settings &gt; Accessibility features &gt; Motion Sickness Relief &gt; Appearance &gt; Shapes</feature>
+        </features>
+        <features module="Lock screen">
+             <feature img="4">• You can now use videos as the wallpaper, with dynamic effects that play for up to 10 seconds. Try it out by going to: Settings &gt; Home screen &amp; style &gt; Custom &gt; Lock screen style &gt; Select photo &gt; Videos</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Optimizes the shooting performance by improving focus accuracy for telephoto photography, and by enhancing the shooting speed, as well as the imaging quality and clarity in some scenarios</feature>
+        </features>
+        <features module="Games">
+             <feature>• Enhances the smoothness and stability in some gaming scenarios to provide a better user experience</feature>
+        </features>
+        <features module="System">
+             <feature>• Resolves the occasional stuttering issues to enhance the overall smoothness of the device</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issue during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us</feature>
+         </features>
+    </language><language code="1105" name="bo-cn">
+                <features module="" type="header">
+            <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+        </features>
+        <features module="པར་མཛོད།">
+             <feature img="1">• AI མིའི་གཟུགས་འོད་གྲིབ་ཀྱི་རྩོམ་སྒྲིག་རྩོལ་ནུས་གསར་དུ་བསྣན་ཏེ། རང་སྒྲིག་རིག་ལྡན་འོད་རྒྱག་དང་རྒྱབ་ལྗོངས་རྟོག་བཟོའི་རིགས་སྣ་མང་པོར་རྒྱབ་སྐྱོར་བྱས་ནས། ཁྱེད་ཀྱི་འདྲ་པར་སྟབས་བདེའི་ངང་ཚད་རིམ་མཐོ་བའི་འོད་གྲིབ་ནུས་པ་མངོན་པར་བྱེད། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། པར་མཛོད་ &gt; པར་རིས་ཀྱི་ཁ་འབྱེད་པ་ &gt; AI རྩོམ་སྒྲིག་ &gt; AI མིའི་གཟུགས་ &gt; འོད་གྲིབ།</feature>
+             <feature img="2">• འོད་འཚེར་སེལ་བའི་རྩོལ་ནུས་གསར་དུ་བསྣན་ཚེ། ནུས་ལྡན་སྒོས་པར་རིས་སམ་བརྙན་ཟློས་ཁྲོད་ཀྱི་དྲག་འོད་ལྡོག་འཕྲོ་ལས་བཟོས་པའི་འཚེར་འོད་གསུབ་འདོར་བྱས་ཏེ། དཔེ་རིས་ཀྱི་གཙང་དག་ཚད་མཐོར་འདེགས་གཏོང་བ་ཡིན། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། པར་མཛོད་ &gt; པར་རིས་ཀྱི་ཁ་འབྱེད་པ་ &gt; AI རྩོམ་སྒྲིག་ &gt; AI གསུབ་འདོར་ &gt; འོད་འཚེར་སེལ་བ།</feature>
+        </features>
+        <features module="ཡོམ་འཁོར་དལ་ལྷོད།">
+             <feature img="3">• སྒེར་གཤིས་ཅན་གྱི་འགུལ་ནུས་རིས་རྟགས་གསར་དུ་བསྣན་ནས་ཞི་ལྷོད་ནུས་པ་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ལ་སྐྱིད་སྣང་དོད་པའི་འགྲུལ་བཞུད་འཕྲུལ་སྤྱོད་ཀྱི་མྱོང་རོལ་བསྐྱལ་ཡོང་། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ &gt; རམ་འདེགས་ཀྱི་རྩོལ་ནུས་ &gt; འགུལ་བར་མགོ་ཡུ་འཁོར་བའི་དལ་ལྷོད་མངོན་སྟོན་ &gt; ནང་དོན་མངོན་སྟོན་བྱེད་ &gt; རིས་དབྱིབས།</feature>
+        </features>
+        <features module="ཡོལ་ཟྭ།">
+             <feature img="4">• བརྙན་ཟློས་ཀྱི་ལྡེབ་ཤོག་གསར་སྣོན་བྱས་ཡོད། ཆེས་རིང་ན་སྐར་ཆ་ 10 ཡི་འགུལ་རྣམ་ཁྱད་ནུས་ལ་རྒྱབ་སྐྱོར་བྱེད། ཉམས་ལེན་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་ཅོག་ངོས་དང་སྒེར་གཤིས་ཅན། དེ་ནས་ཡོལ་ཟྭ་རང་སྒྲིག དེ་ནས་བརྙན་ཡོལ་ཟྭ་རྒྱག་རྣམ་པ། དེ་ནས་འདྲ་པར་འདེམ་པ། དེ་ནས་བརྙན་ཟློས།</feature>
+        </features>
+        <features module="པར་ཆས།">
+             <feature>• པར་ཆས་ཀྱི་པར་ལེན་ནུས་པ་ལེགས་སྒྱུར་བྱེད་པ། དེའི་ནང་མདོ་རིང་བརྙན་ལེན་འོག་གི་མདོ་སྒྲིག་ཡང་དག་རང་བཞིན་གྱི་ལེགས་སྒྱུར་དང་། བཟོ་ལྗོངས་ཁ་ཤས་འོག་གི་པར་ལེན་མྱུར་ཚད་དང་གཟིགས་གྲུབ་སྤུས་ཀ་དང་བརྙན་ལེན་གསལ་ཚད་བཅས་མཐོར་འདེགས་གཏོང་བ་ཚུད་ཡོད།</feature>
+        </features>
+        <features module="རོལ་རྩེད།">
+             <feature>• རོལ་རྩེད་ཁ་ཤས་ཀྱི་བཟོ་ལྗོངས་འོག་ཐོགས་ཐུག་མེད་པ་དང་གཏན་འཇགས་ཀྱི་བཀོལ་སྤྱོད་ཉམས་ལེན་མཐོར་འདེགས་གཏོང་བ།</feature>
+        </features>
+        <features module="རྒྱུད་ཁོངས།">
+             <feature>• བཟོ་ལྗོངས་ཁག་ཅིག་བེད་སྤྱོད་ཐོགས་ཐུག་གི་གནད་དོན་ལེགས་སྒྱུར་བྱས་ཡོད། སྒྲིག་ཆས་ཀྱི་ཐོགས་ཐུག་མེད་པའི་རང་བཞིན་མཐོར་འདེགས་གཏོང་།</feature>
+        </features>
+         <features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+             <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་སུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་བྱས་ན་ལེགས།
+2. དེ་ལས་མང་བའི་རྩོལ་ནུས་ལེགས་པོའི་ངོ་སྤྲོད་ཐད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱ་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བེད་སྤྱོད་བྱེད་པའི་གོ་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཀྱི་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱ་རོགས།</feature>
+         </features>
+    </language><language code="3076" name="zh-hk">
+                <features module="" type="header">
+            <feature>親愛的用戶，本次更新主要針對系統進行了優化，建議您進行更新</feature>
+        </features>
+        <features module="圖片庫">
+             <feature img="1">• 新增 AI 人像光影編輯功能，支援多種自訂智能打光與背景散景，讓您的相片輕鬆呈現高級的光影效果。體驗路徑：圖片庫 &gt; 開啟圖片 &gt; AI 編輯 &gt; AI 人像 &gt; 光影</feature>
+             <feature img="2">• 新增炫光去除功能，可有效消除相片或影片中因強光反射造成的炫光，提升畫面純淨度。體驗路徑：圖片庫 &gt; 開啟圖片 &gt; AI 編輯 &gt; AI 消除 &gt; 炫光去除</feature>
+        </features>
+        <features module="暈動舒緩">
+             <feature img="3">• 新增個人化動畫效果圖標，提升緩解效果，為您帶來舒適的旅途用機體驗。體驗路徑：設定 &gt; 輔助功能 &gt; 暈動舒緩顯示 &gt; 顯示內容 &gt; 圖形</feature>
+        </features>
+        <features module="鎖屏">
+             <feature img="4">• 新增影片桌布，支援最長 10 秒動態效果。體驗路徑：設定 &gt; 主屏幕和個人化 &gt; 鎖屏自訂 &gt; 鎖屏樣式 &gt; 選擇相片 &gt; 影片</feature>
+        </features>
+        <features module="相機">
+             <feature>• 優化相機拍攝效果，包括優化長焦拍攝下的對焦準確性，提升部分場景下的拍攝速度、成像質素以及拍攝清晰度</feature>
+        </features>
+        <features module="遊戲">
+             <feature>• 提升部分遊戲場景下流暢穩定的操作體驗</feature>
+        </features>
+        <features module="系統">
+             <feature>• 優化部分場景使用不暢順問題，提升整機流暢性</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份
+2. 更多精彩功能介紹，請瀏覽「玩機技巧」應用程式
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+         </features>
+    </language><language code="1028" name="zh-tw">
+                <features module="" type="header">
+            <feature>親愛的使用者，本次更新主要針對系統進行了最佳化，建議您進行更新</feature>
+        </features>
+        <features module="圖片庫">
+             <feature img="1">• 新增 AI 人像光影編輯功能，支援多種自訂智慧打光與背景散景，讓您的相片輕鬆呈現高級的光影效果。體驗路徑：圖片庫 &gt; 開啟圖片 &gt; AI 編輯 &gt; AI 人像 &gt; 光影</feature>
+             <feature img="2">• 新增去除炫光功能，可有效消除相片或影片中因強光反射造成的炫光，提升畫面純淨度。體驗路徑：圖片庫 &gt; 開啟圖片 &gt; AI 編輯 &gt; AI 消除 &gt; 去除炫光</feature>
+        </features>
+        <features module="暈動舒緩">
+             <feature img="3">• 新增個人化動畫效果圖示，提升緩解效果，為您帶來舒適的旅途用機體驗。體驗路徑：設定 &gt; 無障礙功能 &gt; 暈動舒緩顯示 &gt; 顯示內容 &gt; 圖形</feature>
+        </features>
+        <features module="鎖定螢幕">
+             <feature img="4">• 新增影片桌布，支援最長 10 秒動態效果。體驗路徑：設定 &gt; 桌面和個人化 &gt; 鎖定螢幕自訂 &gt; 鎖定螢幕樣式 &gt; 選取相片 &gt; 影片</feature>
+        </features>
+        <features module="相機">
+             <feature>• 最佳化相機拍攝效果，包括最佳化長焦拍攝下的對焦準確性，提升部分場景下的拍照速度、成像品質以及拍攝清晰度</feature>
+        </features>
+        <features module="遊戲">
+             <feature>• 提升部分遊戲場景下流暢穩定的操作體驗</feature>
+        </features>
+        <features module="系統">
+             <feature>• 最佳化在部分場景下的使用遲滯問題，提升整機流暢性</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+         </features>
+    </language><language code="1152" name="ug-cn">
+                <features module="" type="header">
+            <feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېمىغا قارىتا ئەلالاشتۇرۇش ئېلىپ بېرىلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ</feature>
+        </features>
+        <features module="‏ئامبار">
+             <feature img="1">• ‏AI ئادەم سۈرىتى سايىسىنى تەھرىرلەش ئىقتىدارى قوشۇلغان بولۇپ، كۆپ خىل ئىختىيارىي ئەقلىي يورۇتۇش ۋە غۇۋالاشتۇرۇشنى قوللاپ، رەسىمىڭىزنىڭ ئاسانلا ئېسىل سايە ئۈنۈمى نامايەن قىلىشىغا ياردەم بېرىدۇ. ئىشلىتىش يولى: ئامبار &gt; رەسىمنى ئېچىش &gt; ‏AI تەھرىرلەش &gt; ‏AI ئادەم سۈرىتى &gt; ‏سايە</feature>
+             <feature img="2">‏• ‏پارقىراق نۇر يوقىتىش ئىقتىدارى يېڭىدىن قوشۇلدى، رەسىم ياكى سىندىكى كۈچلۈك نۇر پەيدا قىلغان پارقىراقنى يوقىتىپ، كۆرۈنۈشنىڭ سۈزۈكلۈكىنى يۇقىرى كۆتۈرىدۇ. ئىشلىتىش يولى: ئامبار &gt; رەسىمنى ئېچىش &gt; ‏AI تەھرىرلەش &gt; ‏AI يوقىتىش &gt; ‏پارقىراق نۇر يوقىتىش</feature>
+        </features>
+        <features module="‏‏باش قېيىشنى پەسەيتكۈچ">
+             <feature img="3">‏• خاسلاشتۇرما ھەرىكەتچان ئۈنۈملۈك سىنبەلگە قوشۇلغان بولۇپ، پەسەيتىش ئۈنۈمىنى يۇقىرى كۆتۈرۈپ، سىز ئۈچۈن راھەت بولغان سەپەردە تېلېفون ئىشلىتىش تەسىراتى ئېلىپ كېلىدۇ. ئىشلىتىش يولى: تەڭشەك &gt; ياردەمچى ئىقتىدار &gt; ‏باش قېيىشنى پەسەيتكۈچنى كۆرسىتىش &gt; ‏مەزمۇننى كۆرسىتىش &gt; ‏شەكىل</feature>
+        </features>
+        <features module="‏قۇلۇپ ئېكرانى">
+             <feature img="4">‏• سىنلىق تەگلىك يېڭىدىن قوشۇلدى، ئەڭ ئۇزۇن بولغاندا 10 سېكۇنتلۇق ھەرىكەتچان ئۈنۈمنى قوللايدۇ. ئىشلىتىش يولى: تەڭشەك &gt; ئۈستەليۈزى ۋە خاسلاشتۇرۇش &gt; قۇلۇپ ئېكرانىنى خاسلاشتۇرۇش &gt; قۇلۇپ ئېكران ئۇسلۇبى &gt; رەسىم تاللاش &gt; سىن</feature>
+        </features>
+        <features module="‏‏كامېرا">
+             <feature>‏• كامېرادا سۈرەتكە ئېلىش ئۈنۈمىنى ئەلالاشتۇرىدۇ، بۇ ئۇزۇن فوكۇسلۇق سۈرەتكە ئالغاندا فوكۇس توغرىلاشنىڭ توغرىلىقىنى ئەلالاشتۇرۇشنى ئۆز ئىچىگە ئالىدىغان بولۇپ، قىسمەن كۆرۈنۈشلەردە رەسىمگە تارتىش سۈرئىتى، تەسۋىر ھاسىللاش سۈپىتى ۋە سۈرەتكە ئېلىش سۈزۈكلۈكىنى يۇقىرى كۆتۈرىدۇ</feature>
+        </features>
+        <features module="‏ئويۇن">
+             <feature>‏• قىسمەن ئويۇن كۆرۈنۈشلىرىدە راۋان ۋە مۇقىم مەشغۇلات تەسىراتىنى يۇقىرى كۆتۈرىدۇ</feature>
+        </features>
+        <features module="‏‏سىستېما">
+             <feature>‏• قىسىمەن كۆرۈنۈشلەردىكى قېتىۋېلىش مەسىلىسى ھەل قىلىنغان بولۇپ، پۈتۈن ئۈسكۈنىنىڭ راۋانلىقى ئاشۇرۇلدى</feature>
+        </features>
+         <features module="‏يېڭىلاش بىلدۈرگۈسى" type="end">
+             <feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتىڭىزنى ئۆچۈرمەيدۇ، لېكىن يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتنى زاپاسلاشنى تەۋسىيە قىلىمىز
+‏2. تېخىمۇ كۆپ سەرخىل ئىقتىدارلارنى «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىپ كۆرۈڭ
+‏3. ئەگەر ئىشلىتىش جەريانىدا ھەرقانداق مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپى ياكى روڭياۋ ئورگان تەرەپ تور بېتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ</feature>
+         </features>
+    </language></root>

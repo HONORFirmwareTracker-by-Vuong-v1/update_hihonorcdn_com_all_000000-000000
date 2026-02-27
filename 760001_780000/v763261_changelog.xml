@@ -1,0 +1,281 @@
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+        <language name="zh-cn" code="2052">
+        <features module="" type="header" >
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+    <features module="灵动胶囊">
+        <feature video = "1" >新增媒体胶囊实时音频律动效果，带来更丰富的视听体验</feature>
+        <feature>优化灵动胶囊文本过长的显示效果</feature>
+    </features>
+    <features module="截屏">
+        <feature video = "2" >截屏编辑新增 AI 编辑入口，添加文字、魔法修图一步直达</feature>
+    </features>
+    <features module="相机">
+        <feature>优化相机拍摄效果，包括部分场景下的色彩稳定性、清晰度、对焦稳定性</feature>
+    </features>
+    <features module="控制中心">
+        <feature video = "3" >锁屏亮屏后支持下拉使用控制中心，无需解锁手机即可快速开启常用功能，操作更便捷。体验路径：设置 > 通知和状态栏 > 锁屏下拉控制中心</feature>
+    </features>
+    <features module="智慧多窗">
+        <feature video = "4" >支持开启悬浮窗位置记忆功能，优化您的悬浮窗使用体验。体验路径：设置 > 辅助功能 > 智慧多窗 > 悬浮窗自动记忆</feature>
+        <feature video = "5" >在手机横屏场景下，支持设定悬浮窗的默认打开位置，优化横屏游戏、视频等场景下的悬浮窗使用体验。体验路径：设置 > 辅助功能 > 智慧多窗 > 悬浮窗初始位置</feature>
+    </features>
+    <features module="任意门">
+        <feature>部分应用支持表情包 GIF 拖拽分享，让您的表情包跨应用使用更便捷高效 (因各应用对动图格式处理方式存在差异，暂无法覆盖全应用、全界面体验)。体验路径：设置 > 荣耀 AI &amp; YOYO > 荣耀任意门 > 任意门实验室 > GIF 动图拖拽</feature>
+    </features>
+    <features module="显示">
+        <feature>优化亮度调节效果，智能调整睡前等场景的屏幕亮度，带来更柔和的视觉体验</feature>
+    </features>
+    <features module="设置">
+        <feature>设置新增帮助与反馈入口，提供用机百科内容，搜索定位问题原因，一键启动智能客服，提供自助反馈通道，给您带来更好的用机体验</feature>
+    </features>
+    <features module="荣耀互联">
+        <feature>优化屏幕共享、网络共享连接稳定性，提升您的互联体验</feature>
+    </features>
+    <features module="功耗">
+        <feature>优化游戏、视频播放、相机等场景下的续航体验</feature>
+    </features>
+    <features module="稳定性">
+        <feature>提升系统稳定性，优化部分三方应用闪退和无响应问题，让您的手机运行更稳定</feature>
+    </features>
+    <features module="更新注意事项" type="end">
+        <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+    </features>
+    </language>
+    <language name="en-us" code="1033">
+        <features module="" type="header" >
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+    <features module="Magic Capsule">
+        <feature video = "1" >The Magic Capsule visually rhythms along with media playback to enhance your audio-visual experience</feature>
+        <feature>Optimizes the display of excessively long text within the Magic Capsule</feature>
+    </features>
+    <features module="Screenshot">
+        <feature video = "2" >Screenshot editing now features AI Edit, allowing you to add text and perform Magic Retouch with a single tap</feature>
+    </features>
+    <features module="Camera">
+        <feature>Optimizes shooting effects in some scenarios, enhancing color stability, clarity, and focus stability</feature>
+    </features>
+    <features module="Control Center">
+        <feature video = "3" >After lighting up the lock screen, you can swipe down to access the Control Center. This provides quick access to frequently used features without unlocking the phone. Try it out by going to: Settings > Notifications &amp; status bar > Lock screen drop-down control center</feature>
+    </features>
+    <features module="Multi-Window">
+        <feature video = "4" >Remember size and position feature enhances the user experience with the floating window. Try it out by going to: Settings > Accessibility features > Multi-window > Remember size and position</feature>
+        <feature video = "5" >Set the default opening position of the floating window in landscape mode to optimize the user experience for gaming and video playback. Try it out by going to: Settings > Accessibility features > Multi-window > Initial floating window position</feature>
+    </features>
+    <features module="Magic Portal">
+        <feature>Certain apps allow you to drag and drop emoji GIFs, streamlining your emoji use across different apps. However, due to varying support for emoji GIFs among apps, this feature currently cannot cover all apps and interfaces. Try it out by going to: Settings > Honor AI &amp; YOYO > Magic Portal > Magic Portal Lab > GIF drag &amp; drop</feature>
+    </features>
+    <features module="Display">
+        <feature>Brightness automatically adjusts for specific situations, such as bedtime, to enhance visual comfort</feature>
+    </features>
+    <features module="Settings">
+        <feature>The Help &amp; feedback section in Settings offers device encyclopedia and quick access to customer service and feedback. You can also search for problem causes</feature>
+    </features>
+    <features module="Honor Connect">
+        <feature>Enhances the stability of screen sharing and network sharing, leading to a better user experience</feature>
+    </features>
+    <features module="Power consumption">
+        <feature>Optimizes the battery performance for gaming, video playback, and camera use</feature>
+    </features>
+    <features module="Stability">
+        <feature>Enhances system stability and fixes the issues that caused some third-party apps to crash or become unresponsive, making your device run more stably</feature>
+    </features>
+    <features module="更新注意事项" type="end">
+        <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issue during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us</feature>
+    </features>
+    </language>
+    <language name="bo-cn" code="1105">
+        <features module="" type="header" >
+            <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+        </features>
+    <features module="འགུལ་རྣམ་སྦྱིན་ཐུམ།">
+        <feature video = "1" >སྨྱན་གཟུགས་སྤྱིན་ཐུམ་གྱི་དུས་དངོས་སྒྲ་ཟློས་ཀྱི་གདངས་དབྱངས་ནུས་པ་གསར་སྣོན་བྱས་ཏེ། དེ་བས་ཕུན་སུམ་ཚོགས་པའི་མཐོང་ཐོས་ཉམས་ལེན་ཐོབ་པར་བྱེད།</feature>
+        <feature>འགུལ་རྣམ་སྤྱིན་ཐུམ་གྱི་ཡིག་གཞི་མངོན་སྟོན་རིང་དྲགས་པའི་མངོན་སྟོན་ནུས་པ་ལེགས་སྒྱུར་བྱེད།</feature>
+    </features>
+    <features module="ཡོལ་པར་ལེན་པ།">
+        <feature video = "2" >བཅད་ཡོལ་རྩོམ་སྒྲིག་ལ་ AI རྩོམ་སྒྲིག་འཛུལ་སྒོ་ཁ་སྣོན་བྱེད་ལ། ཡི་གེ་སྣོན་པ་དང་རྫུ་འཕྲུལ་འདྲ་པར་བཟོ་བཅོས་ལ་ཐད་ཀར་སླེབས་ཐུབ།</feature>
+    </features>
+    <features module="པར་ཆས།">
+        <feature>པར་ཆས་ཀྱི་པར་ལེན་ནུས་པ་ལེགས་སུ་བཏང་ཡོད་དེ། བཟོ་ལྗོངས་ཁག་ཅིག་འོག་གི་ཚོན་མདངས་ཀྱི་གཏན་འཇགས་རང་བཞིན་དང་། གསལ་པོའི་ཚད། མདོ་སྒྲིག་གི་གཏན་འཇགས་རང་བཞིན་བཅས་ཚུད་ཡོད།</feature>
+    </features>
+    <features module="ཚོད་འཛིན་ལྟེ་གནས།">
+        <feature video = "3" >ཡོལ་ཟྭའི་བརྙན་ཡོལ་འཕྲོས་རྗེས་མར་འཐེན་ཏེ་ཚོད་འཛིན་ལྟེ་གནས་སྤྱོད་པར་རྒྱབ་སྐྱོར་བྱེད་ལ། ལག་ཁྱེར་ཁ་པར་གྱི་ཟྭ་མ་ཕྱེ་བར་མགྱོགས་མྱུར་ངང་རྒྱུན་སྤྱོད་རྩོལ་ནུས་ཀྱི་ཁ་ཕྱེ་ཆོག་ལ། བཀོལ་སྤྱོད་ཀྱང་དེ་བས་བདེ་མྱུར་ཡིན། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ནས་བརྡ་ཐོ་དང་རྣམ་པའི་ཚན་བྱང་། དེ་ནས་ཡོལ་ཟྭ་ནས་ཚོད་འཛིན་ལྟེ་གནས་ཐུར་འཐེན།</feature>
+    </features>
+    <features module="རིག་ལྡན་སྒྲོམ་མང་།">
+        <feature video = "4" >གཡེང་སྒྲོམ་གནས་ཡུལ་གྱི་དྲན་འཛིན་རྩོལ་ནུས་ཁ་འབྱེད་པར་རྒྱབ་སྐྱོར་བྱེད་ལ། ཁྱེད་ཀྱི་གཡེང་སྒྲོམ་བེད་སྤྱོད་ཉམས་ལེན་ལེགས་སྒྱུར་བྱེད། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ནས་རམ་འདེགས་ཀྱི་རྩོལ་ནུས། རིག་ལྡན་སྒྲོམ་མང་ནས་གཡེང་སྒྲོམ་རང་འགུལ་གྱིས་དྲན་འཛིན།</feature>
+        <feature video = "5" >ལག་ཁྱེར་ཁ་པར་གྱི་འཕྲེད་ཡོལ་བཟོ་ལྗོངས་འོག་ཏུ། གཡེང་སྒྲོམ་གྱི་ཁ་ཕྱེ་བའི་སོར་བཞག་གནས་ཡུལ་སྒྲིག་འགོད་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད་ལ། འཕྲེད་ཡོལ་རོལ་རྩེད་དང་བརྙན་ཟློས་སོགས་བཟོ་ལྗོངས་འོག་གི་གཡེང་སྒྲོམ་གྱི་བེད་སྤྱོད་ཉམས་ལེན་ལེགས་སྒྱུར་བྱེད། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ནས་རམ་འདེགས་ཀྱི་རྩོལ་ནུས། རིག་ལྡན་སྒྲོམ་མང་ནས་གཡེང་སྒྲོམ་གྱི་ཐོག་མའི་གནས་ཡུལ།</feature>
+    </features>
+    <features module="འདོད་འབྱུང་སྒོ་མོ།">
+        <feature>ཉེར་སྤྱོད་ཁ་ཤས་ཀྱིས་རྣམ་འགྱུར་ཐུམ་གྱི་ GIF འདྲུད་འཐེན་མཉམ་སྤྱོད་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད་ལ། ཁྱེད་ཀྱི་རྣམ་འགྱུར་ཐུམ་དེ་ཉེར་སྤྱོད་ལས་བརྒལ་ཏེ་སྤྱོད་པ་དེ་བས་བདེ་མྱུར་དང་ཕན་ནུས་ལྡན་པར་བྱེད།(ཉེར་སྤྱོད་ཁག་གིས་འགུལ་རིས་རྣམ་གཞག་ཐག་གཅོད་བྱེད་སྟངས་ལ་བར་ཁྱད་ཡོད་པའི་རྐྱེན་གྱིས། གནས་སྐབས་སུ་ཉེར་སྤྱོད་ཡོངས་ལ་ཁེབས་མི་ཐུབ་པ་དང་། མཚམས་ངོས་ཡོངས་ནས་ཀྱང་ཉམས་ལེན་བྱ་ཐབས་བྲལ།) ཉམས་ལེན་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ནས་རུང་ཡོའོ་ AI &amp; YOYO དེ་ནས་རུང་ཡོའོ་འདོད་འབྱུང་སྒོ་མོ་ནས་འདོད་འབྱུང་སྒོ་མོའི་ཚོད་ལྟ་ཁང་། དེ་ནས་ GIF འགུལ་པར་འདྲུད་འཐེན།</feature>
+    </features>
+    <features module="མངོན་སྟོན།">
+        <feature>གསལ་ཚད་སྙོམས་སྒྲིག་གི་ནུས་པ་ལེགས་སྒྱུར་བྱེད་པ་དང་། རིག་ལྡན་ངང་གཉིད་པའི་སྔོན་སོགས་ཀྱི་བཟོ་ལྗོངས་ཀྱི་བརྙན་ཡོལ་གསལ་ཚད་སྙོམས་སྒྲིག་བྱས་ཏེ། དེ་བས་ཞི་ལྷོད་ཀྱི་མཐོང་ཚོར་ཉམས་ལེན་ཐོབ་པར་བྱེད།</feature>
+    </features>
+    <features module="སྒྲིག་འགོད་">
+        <feature>རོགས་རམ་དང་ལྡོག་འདྲེན་འཛུལ་སྒོ་གསར་སྣོན་སྒྲིག་འགོད་བྱེད་པ་དང་། འཕྲུལ་ཆས་སྤྱོད་པའི་རིག་མཛོད་ནང་དོན་མཁོ་འདོན་བྱེད། གནད་དོན་གྱི་རྒྱུ་རྐྱེན་བཤེར་འཚོལ་གནས་ངེས་བྱེད་ལ། མཐེབ་གཅིག་གིས་རིག་ལྡན་མཁོ་མཁན་འགོ་སློང་བྱེད་ལ། རང་འགུལ་གྱིས་ལྡོག་འདྲེན་བརྒྱུད་ལམ་མཁོ་འདོན་བྱས་ཏེ། ཁྱེད་ལ་དེ་ལས་ལྷག་པའི་འཕྲུལ་ཆས་སྤྱོད་པའི་ཉམས་ལེན་ཐོབ་པར་བྱེད།</feature>
+    </features>
+    <features module="རུང་ཡོའོ་མཉམ་སྦྲེལ།">
+        <feature>བརྙན་ཡོལ་མཉམ་སྤྱོད་དང་དྲ་རྒྱ་མཉམ་སྤྱོད་འབྲེལ་མཐུད་ཀྱི་གཏན་འཇགས་རང་བཞིན་ལེགས་སྒྱུར་བྱས་ཏེ། ཁྱེད་ཀྱི་མཉམ་འབྲེལ་ཉམས་ལེན་མཐོར་འདེགས་གཏོང་།</feature>
+    </features>
+    <features module="ནུས་རྩོལ།">
+        <feature>རོལ་རྩེད་དང་བརྙན་ཟློས་སྒྲོག་གཏོང་། པར་ཆས་སོགས་ཀྱི་བཟོ་ལྗོངས་འོག་གི་བསྟུད་མར་སྤྱོད་པའི་ཉམས་ལེན་ལེགས་སྒྱུར་བྱེད།</feature>
+    </features>
+    <features module="བརྟན་འཇགས་རང་བཞིན།">
+        <feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་མྱུར་ལོག་དང་ཚུར་ལན་མེད་པའི་གནད་དོན་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་གྱི་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་འཇགས་སུ་གཏོང་།</feature>
+    </features>
+    <features module="更新注意事项" type="end">
+        <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་སུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་བྱས་ན་ལེགས།
+2. དེ་ལས་མང་བའི་རྩོལ་ནུས་ལེགས་པོའི་ངོ་སྤྲོད་ཐད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱ་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བེད་སྤྱོད་བྱེད་པའི་གོ་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཀྱི་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱ་རོགས།</feature>
+    </features>
+    </language>
+    <language name="zh-hk" code="3076">
+        <features module="" type="header" >
+            <feature>親愛的用戶，本次更新主要針對系統進行了優化，建議您進行更新</feature>
+        </features>
+    <features module="靈動膠囊">
+        <feature video = "1" >新增媒體膠囊實時音訊律動效果，帶來更豐富的視聽體驗</feature>
+        <feature>優化靈動膠囊文字過長的顯示效果</feature>
+    </features>
+    <features module="截屏">
+        <feature video = "2" >截圖編輯新增 AI 編輯入口，新增文字和魔法修圖一步直達</feature>
+    </features>
+    <features module="相機">
+        <feature>優化相機拍攝效果，包括部分場景下的色彩穩定性、清晰度和對焦穩定性</feature>
+    </features>
+    <features module="控制中心">
+        <feature video = "3" >鎖屏亮屏後支援向下拉動使用控制中心，無需解鎖手機即可快速啟用常用功能，操作更方便。體驗路徑：設定 > 通知和狀態欄 > 鎖屏向下拉出控制中心</feature>
+    </features>
+    <features module="智能多窗">
+        <feature video = "4" >支援啟用浮動視窗位置記憶功能，優化您的浮動視窗使用體驗。體驗路徑：設定 > 輔助功能 > 智能多窗 > 浮動視窗自動記憶</feature>
+        <feature video = "5" >在手機橫向屏幕場景下，支援設定浮動視窗的預設開啟位置，優化橫向屏幕遊戲、影片等場景下的浮動視窗使用體驗。體驗路徑：設定 > 輔助功能 > 智能多窗 > 浮動視窗初始位置</feature>
+    </features>
+    <features module="任意門">
+        <feature>部分應用程式支援表情包 GIF 拖曳分享，讓您的表情包跨應用程式使用更便捷高效（因各應用程式對動圖格式處理方式存在差異，暫無法涵蓋全應用程式和全介面體驗）。體驗路徑：設定 > 榮耀 AI &amp; YOYO > 榮耀任意門 > 任意門實驗室 > GIF 動圖拖曳</feature>
+    </features>
+    <features module="顯示">
+        <feature>優化亮度調節效果，智能調整睡前等場景的屏幕亮度，帶來更柔和的視覺體驗</feature>
+    </features>
+    <features module="設定">
+        <feature>設定新增說明和反饋入口，提供用機百科內容，搜尋定位問題原因，一鍵啟動智能客戶服務，提供自助反饋通道，為您帶來更好的用機體驗</feature>
+    </features>
+    <features module="榮耀互聯">
+        <feature>優化屏幕分享、網絡共用連線穩定性，提升您的互聯體驗</feature>
+    </features>
+    <features module="功耗">
+        <feature>優化遊戲、影片播放、相機等場景下的續航體驗</feature>
+    </features>
+    <features module="穩定性">
+        <feature>提升系統穩定性，優化部分第三方應用程式無預警關閉和無回應問題，讓您的手機運行更穩定</feature>
+    </features>
+    <features module="更新注意事项" type="end">
+        <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份
+2. 更多精彩功能介紹，請瀏覽「玩機技巧」應用程式
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+    </features>
+    </language>
+    <language name="zh-tw" code="1028">
+        <features module="" type="header" >
+            <feature>親愛的使用者，本次更新主要針對系統進行了最佳化，建議您進行更新</feature>
+        </features>
+    <features module="靈動膠囊">
+        <feature video = "1" >新增媒體膠囊即時音訊律動效果，帶來更豐富的視聽體驗</feature>
+        <feature>最佳化靈動膠囊文字過長的顯示效果</feature>
+    </features>
+    <features module="螢幕截圖">
+        <feature video = "2" >截圖編輯新增 AI 編輯入口，新增文字、魔法修圖一步直達</feature>
+    </features>
+    <features module="相機">
+        <feature>最佳化相機拍攝效果，包括部分場景下的色彩穩定性、清晰度、對焦穩定性</feature>
+    </features>
+    <features module="控制中心">
+        <feature video = "3" >鎖定螢幕換醒後，支援下拉使用控制中心，無需解鎖手機即可快速啟用常用功能，操作更便捷。體驗路徑：設定 > 通知和狀態列 > 鎖定螢幕下拉控制中心</feature>
+    </features>
+    <features module="智慧多窗">
+        <feature video = "4" >支援啟用懸浮視窗位置記憶功能，最佳化您的懸浮視窗使用體驗。體驗路徑：設定 > 無障礙功能 > 智慧多窗 > 懸浮視窗自動記憶</feature>
+        <feature video = "5" >在手機橫向場景下，支援設定懸浮視窗的預設開啟位置，最佳化橫向遊戲、影片等場景下的懸浮視窗使用體驗。體驗路徑：設定 > 無障礙功能 > 智慧多窗 > 懸浮視窗初始位置</feature>
+    </features>
+    <features module="任意門">
+        <feature>部分應用程式支援表情貼圖 GIF 拖曳分享，讓您的表情貼圖跨應用程式使用更便捷高效（因各應用程式對動態圖片格式的處理方式存在差異，暫時無法涵蓋全應用程式、全畫面體驗）。體驗路徑：設定 > 榮耀 AI &amp; YOYO > 榮耀任意門 > 任意門實驗室 > GIF 動態圖片拖曳</feature>
+    </features>
+    <features module="顯示">
+        <feature>最佳化亮度調整效果，智慧調整睡前等場景的螢幕亮度，帶來更柔和的視覺體驗</feature>
+    </features>
+    <features module="設定">
+        <feature>設定新增說明與回饋入口，提供用機百科內容，搜尋定位問題原因，一鍵啟動智慧客服，提供自助回饋通道，給您帶來更好的用機體驗</feature>
+    </features>
+    <features module="榮耀互聯">
+        <feature>最佳化螢幕共享、網路共享連線穩定性，提升您的互聯體驗</feature>
+    </features>
+    <features module="電力消耗">
+        <feature>最佳化遊戲、影片播放、相機等場景下的續航體驗</feature>
+    </features>
+    <features module="穩定性">
+        <feature>提升系統穩定性，最佳化部分第三方應用程式閃退和無回應問題，讓您的手機執行更穩定</feature>
+    </features>
+    <features module="更新注意事项" type="end">
+        <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+    </features>
+    </language>
+    <language name="ug-cn" code="1152">
+        <features module="" type="header" >
+            <feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېمىغا قارىتا ئەلالاشتۇرۇش ئېلىپ بېرىلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ</feature>
+        </features>
+    <features module="‏‏چاققان لەيلىگۈچ">
+        <feature video = "1" >‏مېدىيا لەيلىگۈچنىڭ ئاۋاز رىتىمى بويىچە ئەمەلىي تەۋرەش ئىقتىدارى قوشۇلدى، تېخىمۇ مول كۆرۈش، ئاڭلاش تەسىراتى ئېلىپ كېلىدۇ</feature>
+        <feature>‏چاققان لەيلىگۈچتە ئۇزۇن يېزىقنى كۆرسىتىش ئۈنۈمى ئەلالاشتۇرۇلدى</feature>
+    </features>
+    <features module="ئېكران تۇتۇش">
+        <feature video = "2" >‏كەسمە ئېكراننى تەھرىرلەشتە ‏AI تەھرىرلەش كىرىش ئېغىزى قوشۇلدى، يېزىق قوشۇش ۋە سېھىرلىك رەسىم تۈزەشكە بىر قەدەمدىلا بارغىلى بولىدۇ</feature>
+    </features>
+    <features module="‏‏كامېرا">
+        <feature>‏كامېرانىڭ سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلغان بولۇپ، بۇ قىسمەن كۆرۈنۈشلەردىكى رەڭ مۇقىملىقى، ئېنىقلىقى، فوكۇس توغرىلاش مۇقىملىقىنى ئۆز ئىچىگە ئالىدۇ</feature>
+    </features>
+    <features module="‏تىزگىنلەش مەركىزى">
+        <feature video = "3" >‏قۇلۇپلۇق ئېكراننى يورۇتقاندىن كېيىن تىزگىنلەش مەركىزىنى تۆۋەنگە تارتىشنى قوللايدۇ، يانفون قۇلۇپىنى ئاچماي تۇرۇپمۇ، دائىملىق ئىقتىدارلارنى تېز ئېچىشقا بولىدۇ، مەشغۇلات تېخىمۇ قولايلىق. ئىشلىتىش يولى: تەڭشەك > ئۇقتۇرۇش ۋە ھالەت بالدىقى > ‏قۇلۇپ ئېكرانىدا تىزگىنلەش مەركىزىنى تۆۋەنگە تارتىش</feature>
+    </features>
+    <features module="‏كۆپ كۆزنەك">
+        <feature video = "4" >‏لەيلىمە كۆزنەك ئورنىنى خاتىرىلەشنى ئاچقىلى بولىدۇ، لەيلىمە كۆزنەك ئىشلىتىش تەسىراتىڭىزنى ئەلالاشتۇرىدۇ. ئىشلىتىش يولى: تەڭشەك > ياردەمچى ئىقتىدار > كۆپ كۆزنەك > ‏لەيلىمە كۆزنەك ئۆزلۈكىدىن خاتىرىلەش</feature>
+        <feature video = "5" >‏تۈز بوي ئېكران كۆرۈنۈشتە، لەيلىمە كۆزنەكنىڭ سۈكۈتتىكى ئېچىلىش ئورنىنى بېكىتىشنى قوللايدۇ، تۈز بوي ئېكراندىكى ئويۇن، سىن قاتارلىق كۆرۈنۈشلەردە لەيلىمە كۆزنەكنى ئىشلىتىش تەسىراتى ئەلالاشتۇرۇلدى. ئىشلىتىش يولى: تەڭشەك > ياردەمچى ئىقتىدار > كۆپ كۆزنەك > ‏لەيلىمە كۆزنەكنىڭ دەسلەپكى ئورنى</feature>
+    </features>
+    <features module="‏سېھىرلىك ئىشىك">
+        <feature>‏قىسمەن ئەپلەر چىراي ئىپادىسىنىڭ GIF سىنى سۆرەپ ئورتاقلىشىشنى قوللايدىغان بولدى، چىراي ئىپادىڭىزنى ئەپلەر ئارا تېخىمۇ قولاي، ئۈنۈملۈك ئىشلىتىشكە بولىدۇ (ھەرقايسى ئەپلەرنىڭ ھەرىكەتچان رەسىم فورماتىنى بىر تەرەپ قىلىش ئۇسۇلىدا پەرق بولغاچقا، بارلىق ئەپ، پۈتكۈل ئارايۈزدە ئىشلىتىش ۋاقتىنچە ئەمەلگە ئاشمىدى). ئىشلىتىش يولى: تەڭشەك > روڭياۋ AI ۋە YOYO > ‏روڭياۋ سېھىرلىك ئىشىك > ‏سېھىرلىك ئىشىك تەجرىبىخانىسى > ‏GIF ھەرىكەتچان رەسىمنى سۆرەش</feature>
+    </features>
+    <features module="‏كۆرسىتىش">
+        <feature>‏يورۇقلۇق تەڭشەش ئۈنۈمى ئەلالاشتۇرۇلدى، ئۇخلاشتىن بۇرۇن قاتارلىق كۆرۈنۈشلەردە ئېكران يورۇقلۇقىنى ئاڭلىق تەڭشەپ، تېخىمۇ راھەت كۆرۈش تەسىراتى ئېلىپ كېلىدۇ</feature>
+    </features>
+    <features module="تەڭشەك">
+        <feature>‏تەڭشەككە ياردەم ۋە ئىنكاسقا كىرىش ئېغىزى قوشۇلدى، تېلېفون ئىشلىتىش قامۇسى، مەسىلە مەنبەسىنى ئىزدەپ تېپىش، بىر كۇنۇپكىدا ئاڭلىق خېرىدارلار مۇلازىمىتىنى قوزغىتىش ۋە ئۆزى مەشغۇلات قىلىپ ئىنكاس قىلىش يولىنى تەمىنلەيدۇ، سىزگە تېخىمۇ ياخشى تېلېفون ئىشلىتىش تەسىراتى ئېلىپ كېلىدۇ</feature>
+    </features>
+    <features module="روڭياۋ ئۇلاش">
+        <feature>‏ئېكران ئورتاقلىشىش، تور ئورتاقلىشىشنىڭ ئۇلىنىش مۇقىملىقى ئەلالاشتۇرۇلۇپ، ئۆز-ئارا ئۇلىنىش تەسىراتىڭىزنى يۇقىرى كۆتۈرىدۇ</feature>
+    </features>
+    <features module="‏سەرپىيات">
+        <feature>‏ئويۇن، سىن قويۇش، كامېرا قاتارلىق كۆرۈنۈشلەردىكى داۋاملىق يۈرۈش تەسىراتى ئەلالاشتۇرۇلدى</feature>
+    </features>
+    <features module="‏‏مۇقىملىق">
+        <feature>‏سىستېما مۇقىملىقى يۇقىرى كۆتۈرۈلدى، بىر قىسىم ئۈچىنچى تەرەپ ئەپلىرىنىڭ تۇيۇقسىز چېكىنىش ۋە ئىنكاس بولماسلىق مەسىلىسى ھەل قىلىندى، يانفونىڭىزنىڭ يۈرۈشۈشى تېخىمۇ تۇراقلاشتى</feature>
+    </features>
+    <features module="更新注意事项" type="end">
+        <feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتىڭىزنى ئۆچۈرمەيدۇ، لېكىن يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتنى زاپاسلاشنى تەۋسىيە قىلىمىز
+‏2. تېخىمۇ كۆپ سەرخىل ئىقتىدارلارنى «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىپ كۆرۈڭ
+‏3. ئەگەر ئىشلىتىش جەريانىدا ھەرقانداق مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپى ياكى روڭياۋ ئورگان تەرەپ تور بېتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ</feature>
+    </features>
+    </language>
+    <videos>
+        <video video="1" cover="video1.jpg"  href="video1.mp4"/>
+        <video video="2" cover="video2.jpg"  href="video2.mp4"/>
+        <video video="3" cover="video3.jpg"  href="video3.mp4"/>
+        <video video="4" cover="video4.jpg"  href="video4.mp4"/>
+        <video video="5" cover="video5.jpg"  href="video5.mp4"/>
+    </videos>
+</root>

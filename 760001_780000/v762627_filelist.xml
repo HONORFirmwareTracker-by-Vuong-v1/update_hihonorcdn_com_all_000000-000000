@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>15587584</compressCowSize>
+<cowsize>359919616</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>aLZsw7Bi3L0ePZKwWnz8btWw8AcAvfbcw59Cgs9Au5M=</fileHash>
+<fileSize>46640</fileSize>
+<metadataHash>SE2RPWqCqyx9sULp0Q2HDAomqsKcICsqCkLvXwauLXo=</metadataHash>
+<metadataSize>18494</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELP-N39_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELP-N39_opr_meafnaf.zip</spath>
+<dpath>update_cust_ELP-N39_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>01633454F39575676544D791E3307B6E3DA391FECC8702F142465AD0DC729009</sha256>
+<size>53941</size>
+</file>
+</files>
+</root>
