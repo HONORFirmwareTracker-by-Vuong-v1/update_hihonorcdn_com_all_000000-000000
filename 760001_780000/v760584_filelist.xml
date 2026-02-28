@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>mEHJVRsloMkf8b7MyjvfPE3la+wLtO4ts5VrZt1GEJw=</fileHash>
+<fileSize>727354</fileSize>
+<metadataHash>J/Tfx2r0SRpOggJpnyF5YCciWeBi9UD8P30J9aj7NBU=</metadataHash>
+<metadataSize>983</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LLY-N31_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LLY-N31_def_meafnaf.zip</spath>
+<dpath>update_cust_LLY-N31_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>FBFA384224D99D81C0AD4E7FC40B58CAFDC2654E9C7968A948046C5E145BF3A1</sha256>
+<size>734658</size>
+</file>
+</files>
+</root>

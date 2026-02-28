@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>1fwpkTWuZGiBQ2PuUMzI4DiJAfsXqd6OrE9oHYdtqb4=</fileHash>
+<fileSize>425271531</fileSize>
+<metadataHash>feD75zLAEb8oxkOBbl4EHsXFsChhwuCd0YHKJuqulss=</metadataHash>
+<metadataSize>35305</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELI-N39_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELI-N39_iusacell_mx.zip</spath>
+<dpath>update_cust_ELI-N39_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>0B129A546212656816188BA384610C78ABA2DD221AFDD9AD7653EEEE05447DE0</sha256>
+<size>425278864</size>
+</file>
+</files>
+</root>

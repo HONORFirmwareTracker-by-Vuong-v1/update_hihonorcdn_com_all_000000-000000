@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>7OCpdV1MUvpsb41+maGqjcjef7xXFbT95x9lCm7lRdE=</fileHash>
+<fileSize>667543</fileSize>
+<metadataHash>fWXXwZGPKWyHpjeX65+to8WQimkTyCprsbYFvrlocKc=</metadataHash>
+<metadataSize>926</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_NIC-L42_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_NIC-L42_def_meafnaf.zip</spath>
+<dpath>update_cust_NIC-L42_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>442B769A3E5F9B008263AB487978B5DA4DAC8DC8AD5150E5781DD0B2BCD3022A</sha256>
+<size>674848</size>
+</file>
+</files>
+</root>
