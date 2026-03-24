@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43945984</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>vNhFoyhdCbRioAtme0z34eC30hSuhuedbn9PpGTx1fM=</fileHash>
+<fileSize>4808</fileSize>
+<metadataHash>9Wz4L6I5wmbgaG6AR4mSTrN0wyVfWE/NF/rhsqqbuuo=</metadataHash>
+<metadataSize>989</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PTP-AN70_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PTP-AN70_all_cn.zip</spath>
+<dpath>update_cust_PTP-AN70_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>736A7665174CE8B8ED235F7F2B2BC7750C46C27039C0348D90A526FAFC391B3E</sha256>
+<size>12097</size>
+</file>
+</files>
+</root>

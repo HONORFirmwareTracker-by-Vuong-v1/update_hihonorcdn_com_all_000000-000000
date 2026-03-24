@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>docscan</pluginName>
+	<versionCode>100100012</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>cbeeeefe2753f58f9cb279dd6d27b6b41c3b7e81345a4a020a6919e161d1be4a</sha256>
+			<size>306385</size>
+		</file>
+	</files>
+</root>

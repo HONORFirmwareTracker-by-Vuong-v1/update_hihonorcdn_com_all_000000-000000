@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>uHS47mQtHh0pjmBKY58RmCM79CGZedqxm+yQuPfIoVM=</fileHash>
+<fileSize>58276</fileSize>
+<metadataHash>D4a9dCNEDE9KP/61U1YOFfhkg5sbXJUAI7Nti13H1U4=</metadataHash>
+<metadataSize>1177</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VES-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VES-AN00_all_cn.zip</spath>
+<dpath>update_cust_VES-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>5B453238EB9163401430295AAEC693A341284101F20179FFEBDA382C23A781CF</sha256>
+<size>65585</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>939</payloadOffset>
+<fileHash>C1V8RfJcpUGDUXy3+fXxDBdfWuR7nuK1Admq/TrEhbw=</fileHash>
+<fileSize>289142730</fileSize>
+<metadataHash>yXuzR0OoNgb/OUAS9dvGsp71QtniKuXnGxxFaA4FK2A=</metadataHash>
+<metadataSize>8379</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_NDL-W19_def_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_NDL-W19_def_eea_R2.zip</spath>
+<dpath>update_preload_NDL-W19_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>C93EA4127917035F61F2DF65163FD10233A53917AEFA34F378F53A672590A186</sha256>
+<size>289150072</size>
+</file>
+</files>
+</root>

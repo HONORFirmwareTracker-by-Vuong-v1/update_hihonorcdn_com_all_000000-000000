@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>6Xgci0Sv2fNWJ/qOuY5Oox3wfnmBi1fNtxckmJNJKjM=</fileHash>
+<fileSize>8013</fileSize>
+<metadataHash>xccks2g81vn5ftRa9BugH3X97k2yHswGtdayxjOX1+Q=</metadataHash>
+<metadataSize>4443</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ELI-N09_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ELI-N09_claro_la_R1.zip</spath>
+<dpath>update_preload_ELI-N09_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>1D9F58F798366E8E5E941B2BA2ECDE3FD1254060ECD740CF9D04995189EF726E</sha256>
+<size>15322</size>
+</file>
+</files>
+</root>

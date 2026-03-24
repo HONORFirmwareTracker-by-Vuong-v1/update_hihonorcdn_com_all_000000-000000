@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>399478784</cowsize>
+<payloadOffset>924</payloadOffset>
+<fileHash>dN8i3ikVmj0/YeWTU61OjjhqE/+DV3Xs+LP7RokSDRY=</fileHash>
+<fileSize>2681886</fileSize>
+<metadataHash>xsAFm1EoG7o9AlLosrwqZppLAwPFvjQTxB3ea6aeNgI=</metadataHash>
+<metadataSize>10778</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_NDL-L09_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_NDL-L09_opr_eea.zip</spath>
+<dpath>update_cust_NDL-L09_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>ECB4E623AF7D714BF5D8DD4F785B24FFBE7F3147436F6150E79F937C7679C2D5</sha256>
+<size>2689203</size>
+</file>
+</files>
+</root>

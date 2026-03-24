@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>18719333</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>Iw3qRi0B0rzcRs+fOVABi/+EiRpZK5Pr1IcuRLaCJYM=</fileHash>
+<fileSize>1249164</fileSize>
+<metadataHash>howne22iyDLWe4L+Y3l2gBDGVU39irc1p7PLrtT3/Jk=</metadataHash>
+<metadataSize>8176</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELP-N39I_def_in.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELP-N39I_def_in.zip</spath>
+<dpath>update_cust_ELP-N39I_def_in.zip</dpath>
+<operation>c</operation>
+<sha256>44C4CD4381E50F034945EF28B87D81BAD628BCC44C0B94E43A198444CAFA5AA1</sha256>
+<size>1256480</size>
+</file>
+</files>
+</root>
