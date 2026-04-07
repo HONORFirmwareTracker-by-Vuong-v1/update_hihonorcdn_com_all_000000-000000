@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214738432</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>9mt3qAzz/DgfkqB1amt5NiY9u7acn45ROj2Rns4hdEY=</fileHash>
+<fileSize>11593</fileSize>
+<metadataHash>4EsybIaarBcw2v/oe4tInLh5WHomg9o+CoxoTMwnnig=</metadataHash>
+<metadataSize>7979</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MTN-N03_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MTN-N03_def_la_R100.zip</spath>
+<dpath>update_preload_MTN-N03_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>05D84DD5136060D159E4AF0279557AFC9D44107629DF1ED91F3DF8AEF835E53A</sha256>
+<size>18911</size>
+</file>
+</files>
+</root>
