@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>803287040</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>UqgC+I0atHw/Debu/m7y2BnEBnyiJ01XjHhxqos1UoA=</fileHash>
+<fileSize>263428210</fileSize>
+<metadataHash>56Hp2Ot6CJmkP08urF7n8cF1WdfU8wQhzRBn4iJdi3o=</metadataHash>
+<metadataSize>56041</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LGN-AN10S_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LGN-AN10S_all_cn_R102.zip</spath>
+<dpath>update_preload_LGN-AN10S_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>11F36D663E7362FDB8A68F56524490C3AD576C8364C145D0112DBC348493667B</sha256>
+<size>263435566</size>
+</file>
+</files>
+</root>

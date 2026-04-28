@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.filemanager</packageName>
+	<pluginName>IcloudPlugin</pluginName>
+	<versionCode>100000323</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>d5ef42c594f442a30508a0fcf4d44f0c14a9f670669cf7da4e102b1e2ddec955</sha256>
+			<size>1413410</size>
+		</file>
+	</files>
+</root>

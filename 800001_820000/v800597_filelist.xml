@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44048384</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>Jmcs51jMr+2WSdv/gRvWBtkkimt442tyPyeI6MyDQ2E=</fileHash>
+<fileSize>31584</fileSize>
+<metadataHash>7imvayZS1gCTOn9zEEKRtf7L9kSKfgYtAGMO3y7wnTo=</metadataHash>
+<metadataSize>1140</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DNP-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DNP-AN00_all_cn.zip</spath>
+<dpath>update_cust_DNP-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>79BB2109379FA8F2A9554E243B016FB456026E43B857778112B82EBFA3228099</sha256>
+<size>38885</size>
+</file>
+</files>
+</root>

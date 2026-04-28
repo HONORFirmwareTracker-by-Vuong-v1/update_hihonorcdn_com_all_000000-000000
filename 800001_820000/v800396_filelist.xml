@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44068864</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>nLQ7o2HwSaoRbvLrR6RgF2wIF5rJg0MWTnlwr5RgnK4=</fileHash>
+<fileSize>28851</fileSize>
+<metadataHash>c25I1hqGrQTFh5hmcxoivg9zJUv9T78JYh4o2wyt0lM=</metadataHash>
+<metadataSize>992</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LGN-AN10S_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LGN-AN10S_all_cn.zip</spath>
+<dpath>update_cust_LGN-AN10S_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>F82C7CF37A85A487F3C26AC518CF1568F9E05F2494870D6A1AC20C2A4BDDA95D</sha256>
+<size>36152</size>
+</file>
+</files>
+</root>
