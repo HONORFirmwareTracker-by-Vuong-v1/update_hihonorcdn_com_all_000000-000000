@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>43794432</cowsize>
+<payloadOffset>841</payloadOffset>
+<fileHash>O/zysUm0qX3WbIJCyTYOffv0ds6Qg1sTflrJidyFSa8=</fileHash>
+<fileSize>3927</fileSize>
+<metadataHash>TWEATy82ykLPuaJ0TJT/2CZxK7T8r+2vwfHRs3qdqlo=</metadataHash>
+<metadataSize>1473</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_VNE-AN60_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_VNE-AN60_all_cn.zip</spath>
+<dpath>update_cust_VNE-AN60_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>CD541756789AD1C4346D98FC4DADAA13366B3FBC064F46BFE67C3CC677A2D6F6</sha256>
+<size>11165</size>
+</file>
+</files>
+</root>

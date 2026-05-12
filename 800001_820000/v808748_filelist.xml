@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44056576</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>9z/IspMubo7C7t33fNJFirbvSE7qysN8RE2k93oB79I=</fileHash>
+<fileSize>31595</fileSize>
+<metadataHash>DO9HoXJ/ZE4k+WpzuQ5ikir4wRH6Ste0d94vAkUh/Pk=</metadataHash>
+<metadataSize>1140</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_CGL-W10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_CGL-W10_all_cn.zip</spath>
+<dpath>update_cust_CGL-W10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>84111EEA85DFD57E310D5373D6A47D6D46A3722B388D2A2C7FC72F307CD4BBC9</sha256>
+<size>38895</size>
+</file>
+</files>
+</root>

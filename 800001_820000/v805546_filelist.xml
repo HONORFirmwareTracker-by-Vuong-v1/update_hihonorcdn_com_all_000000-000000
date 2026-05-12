@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>614604800</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>oYFSadbbjelfMCYx+6BlS2LXdB1i3Y5Nh0mTJPdfhTA=</fileHash>
+<fileSize>1016512</fileSize>
+<metadataHash>E1fY9ioqAw6clEF6xier3GpOcpiUb9Q7tJY4WAQQr2U=</metadataHash>
+<metadataSize>6926</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_HEY2-AN00Z_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_HEY2-AN00Z_all_cn.zip</spath>
+<dpath>update_cust_HEY2-AN00Z_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>DD432AF871CEACAF3851BB9409C382A823859AB120ED931788B6076E2D15AD96</sha256>
+<size>1023846</size>
+</file>
+</files>
+</root>
