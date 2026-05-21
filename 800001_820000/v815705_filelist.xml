@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>947671040</cowsize>
+<payloadOffset>924</payloadOffset>
+<fileHash>Gc3RVtioRRVQBU8550r00LaJmTnBxW1W6EcJd9u26K8=</fileHash>
+<fileSize>9449426</fileSize>
+<metadataHash>zJAieRFGdoFH+q0+T0mY7BabNA1aoZvXP0pIkrYxnr0=</metadataHash>
+<metadataSize>26210</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VKJ-N39_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VKJ-N39_iusacell_mx.zip</spath>
+<dpath>update_cust_VKJ-N39_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>ED2F968EC8E4FA959CCA2F139BBD1A8849AF4D0925EF59E714839E9D0882AFC2</sha256>
+<size>9456743</size>
+</file>
+</files>
+</root>

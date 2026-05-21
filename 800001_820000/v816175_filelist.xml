@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>aesthetics</pluginName>
+	<versionCode>90602025</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>210c2c2e7e3ddf39e2933bcb0ecf6b544ac47214ef4d64a090a7b8d68ca01b08</sha256>
+			<size>95030</size>
+		</file>
+	</files>
+</root>

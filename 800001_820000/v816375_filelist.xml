@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1846423552</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>BP9/FzhvdOA1XTcftgQnn38FAHndaqkygDq1N7VsUJk=</fileHash>
+<fileSize>22639209</fileSize>
+<metadataHash>DtTt+n6dkBN+hfXFhabIzJMWzsNptFNXkZmG83oYLxI=</metadataHash>
+<metadataSize>41992</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LAB-L42_def_meafnaf_R202.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LAB-L42_def_meafnaf_R202.zip</spath>
+<dpath>update_preload_LAB-L42_def_meafnaf_R202.zip</dpath>
+<operation>c</operation>
+<sha256>83586CAF25E255BD72A69542ED47568E856D86C9F1CAF04DDC50F1E6FB01C7D5</sha256>
+<size>22646546</size>
+</file>
+</files>
+</root>

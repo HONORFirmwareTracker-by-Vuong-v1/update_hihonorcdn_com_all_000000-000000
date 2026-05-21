@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imageerasercloud</pluginName>
+	<versionCode>90600053</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>a62c062fd3a0b1c5bc2d72df678892b21a03c4d8f4b1ccb8764a1b904a25c05e</sha256>
+			<size>235682</size>
+		</file>
+	</files>
+</root>

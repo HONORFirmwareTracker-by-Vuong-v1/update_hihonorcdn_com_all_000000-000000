@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>processingservice</pluginName>
+	<versionCode>90600054</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>f853bede5272fa6e35f336ea22be887b534be15bc0458af86c34bd5beb75039b</sha256>
+			<size>379663</size>
+		</file>
+	</files>
+</root>

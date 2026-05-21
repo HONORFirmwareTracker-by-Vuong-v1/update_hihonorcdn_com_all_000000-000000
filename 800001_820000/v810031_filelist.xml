@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>236859392</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>R1milGZvYMuH3FsVfgEBlMn3vtoRIsXSPBlOkIHF1MM=</fileHash>
+<fileSize>24558</fileSize>
+<metadataHash>pqckksxu4Gnr6f7hHnONos1tCVffEK+rl1AZBriBS2k=</metadataHash>
+<metadataSize>13317</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALT-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALT-TN00_cmcc_cn.zip</spath>
+<dpath>update_cust_ALT-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>510A0A51E527A195479B33EACB8BE55336F581B02E4D38E557521FD3FE4B3500</sha256>
+<size>31860</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2010570752</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>GyOUsrpxX5/a+qhd4I1oxcBGFs5Mp6qcAbME97Rz+pE=</fileHash>
+<fileSize>626407306</fileSize>
+<metadataHash>UXMFkD6e/voK26yVA56OA2eb2cJgL+NwcBShklziFc8=</metadataHash>
+<metadataSize>22553</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ABR-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ABR-N03_claro_la.zip</spath>
+<dpath>update_cust_ABR-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>DE35E51AB447FFFB625FB1863B52E65C63EC79DBF4555F24484393580919822F</sha256>
+<size>626414646</size>
+</file>
+</files>
+</root>

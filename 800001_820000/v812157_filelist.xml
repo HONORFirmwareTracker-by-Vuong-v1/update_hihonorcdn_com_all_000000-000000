@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>analyticsservice</pluginName>
+	<versionCode>90600051</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>c01d3aac7d07dda988c9f00fc77ee68748e17b3c8a9a11bf8eff76e979dfc112</sha256>
+			<size>61460</size>
+		</file>
+	</files>
+</root>

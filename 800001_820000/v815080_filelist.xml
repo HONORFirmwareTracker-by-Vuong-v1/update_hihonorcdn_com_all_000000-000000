@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>QY9bUCSbRAPxddBoOL+urd2eGDn3p7wjtlGrlgnJYSI=</fileHash>
+<fileSize>8042</fileSize>
+<metadataHash>9AFwpwfiG5a1T3QM2noDFnIVczB3oLn1nsdu4X44LYo=</metadataHash>
+<metadataSize>4443</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LLY-N03_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LLY-N03_claro_la_R1.zip</spath>
+<dpath>update_preload_LLY-N03_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>859646B253D9A5413E7F1A688CB63729A84A1E3B7EE60AE3B7BD9113778F23E2</sha256>
+<size>15348</size>
+</file>
+</files>
+</root>

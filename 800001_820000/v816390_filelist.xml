@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1749086208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>+GHzA30ZTQONFJ07B5ciuPnxsGxPPkqIzAjTXli3/9s=</fileHash>
+<fileSize>149839433</fileSize>
+<metadataHash>pQLX2AAsn2XiAECnG/IGy9J8latqdoB8S2XiqY8vafI=</metadataHash>
+<metadataSize>36442</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VKJ-N09_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VKJ-N09_claro_la.zip</spath>
+<dpath>update_cust_VKJ-N09_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>C109DDDB6C6315C98785BD30939458286C36F3C1F83A9FA6E3BDABC6CFAA1307</sha256>
+<size>149846771</size>
+</file>
+</files>
+</root>

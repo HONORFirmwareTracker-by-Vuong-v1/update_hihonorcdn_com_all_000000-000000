@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>11886534656</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>Ulv+DSpjUfiL7m8Eea8wsPrWRaeovvZfqAxGLtGuH3E=</fileHash>
+<fileSize>218663626</fileSize>
+<metadataHash>6G3do5Nbz+IAhaQKX4xdVNnMvWXBgL8snklngn+Z+pE=</metadataHash>
+<metadataSize>266701</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VKI-AN00_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VKI-AN00_demo_cn.zip</spath>
+<dpath>update_cust_VKI-AN00_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>C0E75E98C4D69B4F36B2CABF7C701677FAEF5A4083D3E5AFB6EA0FD75E264108</sha256>
+<size>218670968</size>
+</file>
+</files>
+</root>

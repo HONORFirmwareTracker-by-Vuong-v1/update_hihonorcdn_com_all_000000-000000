@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>6337957888</cowsize>
+<payloadOffset>933</payloadOffset>
+<fileHash>L7W/kX18Zmy33/SMILKmV8qe97SjUNMVFtbTvcJCMAI=</fileHash>
+<fileSize>12408896</fileSize>
+<metadataHash>DAk1GHSSX7Txn5lf5HfqTaWfMxQT3yQd4/C2fjmRgqY=</metadataHash>
+<metadataSize>104856</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PNM-N49_demo_normal.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PNM-N49_demo_normal.zip</spath>
+<dpath>update_cust_PNM-N49_demo_normal.zip</dpath>
+<operation>c</operation>
+<sha256>BEFFB30DE415A4FF91F104E18E9425052E9F30C348AAB7A21C48A9B42BE08E4A</sha256>
+<size>12416232</size>
+</file>
+</files>
+</root>

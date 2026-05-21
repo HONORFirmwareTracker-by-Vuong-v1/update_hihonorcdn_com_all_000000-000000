@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1696346112</cowsize>
+<payloadOffset>924</payloadOffset>
+<fileHash>XoDxQhGQ0zA8x2kT6tdMb5z5DxsU0a2Pv0R7uCiW7zQ=</fileHash>
+<fileSize>3812919</fileSize>
+<metadataHash>UxChox5DzWWHY9frXOPqLmHn+Bs3IUGxIfpX2NUpcDI=</metadataHash>
+<metadataSize>18913</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PNM-N49_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PNM-N49_opr_eea.zip</spath>
+<dpath>update_cust_PNM-N49_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>43CD35275FC5D65EC9EF6EB74ADDFB1E1203E461965F39A367F79BDFC7FCF457</sha256>
+<size>3820240</size>
+</file>
+</files>
+</root>
